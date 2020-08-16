@@ -1,5 +1,5 @@
 # Knight Moves
----
+
 A project created for The Odin Project.
 
 [Link](https://www.theodinproject.com/courses/ruby-programming/lessons/data-structures-and-algorithms) to the original assignment page.
